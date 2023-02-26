@@ -12,3 +12,8 @@ div.card {
 div.premium {
   background-color: lightgoldenrodyellow;
 }
+ .client-card {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+ }
